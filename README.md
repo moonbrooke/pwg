@@ -4,7 +4,8 @@ Very simple password generator written in C.
 
 ### Compiling
 
-Simply run `gcc pwg.c -o pwg`.
+- Linux: `gcc pwg.c -o pwg`
+- Windows: `gcc pwg.c -o pwg -lbcrypt`
 
 ### Usage
 
